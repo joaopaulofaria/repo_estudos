@@ -1,0 +1,17 @@
+git status
+    verificar mudanças no projeto
+
+git add
+    adicionar novos arquivos para o git
+    git add css/
+    git add .
+
+git commit 
+    salvar alterações do projeto
+    git commit estudo.txt -m "enviando o txt"
+    git commit -a -m "mudancas 11_05_26"
+
+git push 
+    enviar codigo para repositorio remoto
+    git push origin main
+    

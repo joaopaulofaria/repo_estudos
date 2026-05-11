@@ -48,3 +48,29 @@ git checkout
 git reset
     resetar as mudanças feitas na branch (todas as alterações commitadas e pendentes)
     git reset --hard origin/main
+
+branch
+    ramificaçõs do projeto
+    separa versoes do projeto
+
+git branch
+    cria e lista branchs
+    git branch primeiro_branch
+    -d (para deletar branch)
+
+git checkout nome_branch
+    muda de branch
+    -b para criar e mudar
+
+*comitar e salvar todas as alterações antes de mudar de branch*
+*criar uma branch b estando na a cria uma nova branch b a partir da a
+
+git merge
+    unir branches
+    git merge primeiro_branch
+
+*se eu estou na main e rodo git merche primeiro_branch, o conteudo de primeiro_branch é juntado com o conteudo da main
+
+git stash
+    salvar as modificações atuais para prosseguuir com outra abordagem de solução
+     git stash

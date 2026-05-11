@@ -74,3 +74,19 @@ git merge
 git stash
     salvar as modificações atuais para prosseguuir com outra abordagem de solução
      git stash
+     git stash list
+        verifica as stashs criadas
+    git stash apply 0
+        recuperar arquivos da stash
+    git stash clear
+    git stash drop name_stash
+
+git tag
+    tag é um checkpoint de uma branch (demarcar estagios de desenvolvimento)
+    git tag -a nome_tag -m "mensagem"
+    git tag
+        lista tags
+    git show nome_tag
+    git checkout nome_tag
+        trocar de tag
+    git push origin nome_tag

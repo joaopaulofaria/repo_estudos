@@ -44,3 +44,7 @@ git checkout
 
 .gitignore
     ignorar arquivos com informações sensiveis do projeto
+
+git reset
+    resetar as mudanças feitas na branch (todas as alterações commitadas e pendentes)
+    git reset --hard origin/main

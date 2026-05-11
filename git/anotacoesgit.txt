@@ -41,4 +41,6 @@ git mv
 git checkout
     retornar arquivo modificado ao estado original (estado do repositorio)
     git checkout css/styles.css
-    
+
+.gitignore
+    ignorar arquivos com informações sensiveis do projeto

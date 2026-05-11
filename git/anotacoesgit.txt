@@ -90,3 +90,7 @@ git tag
     git checkout nome_tag
         trocar de tag
     git push origin nome_tag
+        enviar tag para o repo remoto
+
+git fetch
+    lista todas as branchs e tags de outro dev (que nao estao reconhecidas)

@@ -14,4 +14,31 @@ git commit
 git push 
     enviar codigo para repositorio remoto
     git push origin main
+    git push
+
+git pull
+    sincronizar repo local com o repo remoto
+    git pull origin main
+
+git clone
+    clonar um repositorio remoto (baixar um repositorio remoto)
+    git clone https://github.com/joaopaulofaria/repo_estudos.git .
+
+git rm
+    remover arquivos da monitoração do git
+    git rm c.txt
+    #depois de usar o rm é preciso comitar e push
+
+git log
+    log de modificacoes no projeto
+    git log
+
+git mv
+    renomear arquivo ou mover para outra pasta
+    git mv b.css c.css
+    git mv rodape.css css/rodape.css
+
+git checkout
+    retornar arquivo modificado ao estado original (estado do repositorio)
+    git checkout css/styles.css
     

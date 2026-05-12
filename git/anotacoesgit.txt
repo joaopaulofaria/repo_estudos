@@ -155,4 +155,6 @@ Criar bons commits
     corpo maximo 72 caracteres
     porque e como do commit
 
+git commit -a -m "anotacoes git
+> Anotacoes criadas para criar bons commits, private branchs"
 

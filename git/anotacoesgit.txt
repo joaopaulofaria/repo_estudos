@@ -125,4 +125,8 @@ git shortlog
 git clean
     verificar e limpar arquivos nao trackeados (que nao foi usado o git add ainda)
     git clean
-    
+
+git gc
+    otimizar repositorio (garbage collector)
+    identifica arquivos desnecessarivos e exclui
+    git gc

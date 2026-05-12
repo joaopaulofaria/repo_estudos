@@ -94,3 +94,17 @@ git tag
 
 git fetch
     lista todas as branchs e tags de outro dev (que nao estao reconhecidas)
+    git fetch -a
+
+git remote
+    remover e adicionar origens
+    git remote -v
+    git remote rm origin
+    git remote add origin_url
+
+
+submodulo
+    Possuir dois ou mais projetos em um repo
+    git submodule add url_repo
+    git push --recurse-submodules=on-demand
+        atualizar submodule

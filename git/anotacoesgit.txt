@@ -130,3 +130,20 @@ git gc
     otimizar repositorio (garbage collector)
     identifica arquivos desnecessarivos e exclui
     git gc
+
+git fsck
+    verifica integridade dos arquivos e conectividade
+    git fsck
+
+git reflog
+    mapeia todos os passos do repositorio
+    tempo default que fica salvo é 30 diferenças
+    git reflog
+
+commit
+private branches
+    branches que nao sao compartilhadas no repo
+    exporta apenas um commite
+    git rebase 
+    excluir = squash
+    renomear = reword

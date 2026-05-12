@@ -147,3 +147,12 @@ private branches
     git rebase 
     excluir = squash
     renomear = reword
+
+Criar bons commits
+    separar assunto do corpo da mensagem   
+    assunto maximo 50 caracteres
+    letra inicial Maiuscula
+    corpo maximo 72 caracteres
+    porque e como do commit
+
+

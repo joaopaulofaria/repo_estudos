@@ -108,3 +108,21 @@ submodulo
     git submodule add url_repo
     git push --recurse-submodules=on-demand
         atualizar submodule
+
+git show
+    informações uteis do branch atual, tags e dos commits
+    git show
+
+git diff
+    exibe as diferenças de uma branch, arquivo
+    git diff primeiro_branch
+    git diff arquivo1 arquivo2
+
+git shortlog 
+    log resumido do projeto
+    git shortlog
+
+git clean
+    verificar e limpar arquivos nao trackeados (que nao foi usado o git add ainda)
+    git clean
+    

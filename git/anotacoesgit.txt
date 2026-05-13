@@ -159,3 +159,40 @@ git commit -a -m "anotacoes git
 > Anotacoes criadas para criar bons commits, private branchs"
 
 fsadfsadf
+
+abas github
+ISSUE
+    criar tarefas ou possiveis bugs do projeto
+    pode usar markdown
+    deve ter uma label e um responsavel
+
+Pull request
+    é onde os colaboradores do projeto enviam codigo para resolver issue ou adicionar funcionalidades
+    pullrequest vai ser analisado (nao fazer direto na main)
+
+
+Actions
+    Ci/Cd
+    automações de deploy
+    
+Projects
+    semelhante ao trello
+    usa kanban
+
+wiki
+    criar doc extensa para o projeto
+
+Git Flow
+    modelo de organização de branches
+    separar o código conforme o estágio dele (desenvolvimento, teste, produção)
+
+Gist
+    blocos de codigo que podem ser hospedados no github
+    pode ser compartilhado
+
+Encontrar repositorios (olhando fonte)
+    star 
+        recebe as adiçoes do projeto
+    fork
+        pega um repositorio fora da sua conta do github e traz esse repositorio para a sua conta
+        muito usado no universo opensource
